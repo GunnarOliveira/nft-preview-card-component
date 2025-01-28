@@ -39,7 +39,7 @@ This is the solution for the **NFT Preview Card Component** challenge by [Fronte
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/NFT-Preview-Card-Component.git
+   git clone https://github.com/GunnarOliveira/NFT-Preview-Card-Component.git
    ```
 2. Open the index.html file in your browser
 
